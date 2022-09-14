@@ -45,6 +45,16 @@ template {
     display: none
 }
 
+#content table {
+    border-collapse: collapse;
+    }
+#content table,
+td,
+th {
+    padding: 5px;
+    border: 1px solid black;
+    }
+
 a {
     background-color: transparent
 }
